@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PartyRockApp/PartyCell.swift"
+            timestampString = "515290335.567593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "updateUI(partyRock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PartyRockApp/VideoVC.swift"
+            timestampString = "515357552.130603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "backBtnPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PartyRockApp/VideoVC.swift"
+            timestampString = "515357552.130603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "VideoVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.VideoVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PartyRockApp.VideoVC"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinaisienyi/Documents/IOS%20First%20Course%20MarkP/PartyRock/PartyRockApp/PartyRockApp/VideoVC.swift"
+                  timestampString = "515356017.529148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.VideoVC.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PartyRockApp.VideoVC"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinaisienyi/Documents/IOS%20First%20Course%20MarkP/PartyRock/PartyRockApp/PartyRockApp/VideoVC.swift"
+                  timestampString = "515356017.531633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.VideoVC.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PartyRockApp.VideoVC&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinaisienyi/Documents/IOS%20First%20Course%20MarkP/PartyRock/PartyRockApp/PartyRockApp/VideoVC.swift"
+                  timestampString = "515356017.53408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.VideoVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PartyRockApp.VideoVC&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tinaisienyi/Documents/IOS%20First%20Course%20MarkP/PartyRock/PartyRockApp/PartyRockApp/VideoVC.swift"
+                  timestampString = "515356017.536637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
